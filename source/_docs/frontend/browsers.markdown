@@ -36,7 +36,7 @@ We would appreciate if you help to keep this page up-to-date and add feedback.
 | Browser               | Release        | State      | Comments                 |
 | :-------------------- |:---------------|:-----------|:-------------------------|
 | [Firefox]             | 49.0           | works      |                          |
-| [Midori]              | 0.5.11         | works      |                          |
+| [Midori]              | 0.5.11         | fails      | No ES2015 support, loads empty page |
 | [Chromium]            | 53.0.2785.143  | works      |                          |
 | [Conkeror]            | 1.0.2          | works      |                          |
 | [Konqueror]           |                | unknown    |                          |
